@@ -3,11 +3,7 @@ x = 'Paola'
 
 def saludo(a):
     x = 'Mundo'
-    print('Hola ' + a)
+    print('Hola ' + a + ' ¿Cómo estas?')
 
 
 saludo(x)
-
-y = 'Ana'
-
-saludo(y)
