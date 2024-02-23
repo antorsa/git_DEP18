@@ -7,3 +7,7 @@ def saludo(a):
 
 
 saludo(x)
+
+y = 'Ana'
+
+saludo(y)
